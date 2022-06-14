@@ -1,1 +1,7 @@
 1st changes
+<<<<<<< HEAD
+=======
+2nd changes
+3rd changes
+4th changes
+>>>>>>> parent of 5f00cf0 (5th commit)
